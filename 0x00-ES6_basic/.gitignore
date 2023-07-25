@@ -1,9 +1,9 @@
 # Ignore node_modules directory
-**/node_modules/
+node_modules/
 
 # Ignore npm's cache
-**/npm-debug.log
-**/npm-error.log
+npm-debug.log
+npm-error.log
 
 # Ignore logs and debugging files
 *.log
@@ -29,7 +29,7 @@ Thumbs.db
 /out/
 
 # Ignore package lock file
-**/package-lock.json
+package-lock.json
 
 # Ignore any sensitive or private information (e.g., config files with passwords)
 config.json
