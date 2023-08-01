@@ -1,6 +1,6 @@
 # alx-frontend-javascript
 
-Welcome to the "alx-frontend-javascript" repository!
+Welcome to the "alx-frontend-javascript" repository
 
 ## Description
 
